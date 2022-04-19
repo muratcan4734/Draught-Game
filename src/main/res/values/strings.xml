@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DraughtsGame_Assignment</string>
+    <string name="player1">Player1 :</string>
+    <string name="player2">Player2 :</string>
+    <string name="BtnReset">Reset</string>
+    <string-array name="color1">
+        <item>Cyan</item>
+        <item>Verdigris</item>
+        <item>DustyGrey</item>
+        <item>GreenPea</item>
+    </string-array>
+    <string-array name="color2">
+        <item>Petrol</item>
+        <item>DarkGray</item>
+        <item>PinkSwan</item>
+        <item>Whitesmoke</item>
+    </string-array>
+</resources>
